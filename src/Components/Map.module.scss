@@ -1,0 +1,12 @@
+.map {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+.root {
+	position: relative;
+	height: calc(100% - 250px);
+	width: 100%;
+}

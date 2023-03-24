@@ -1,16 +1,15 @@
-import Footer from "./components/Footer";
-import Main from "./components/Main";
-import { AddressProvider } from "./context/AddressContext";
+import TopMenu from "./Components/TopMenu";
+import Map from "./Components/Map";
+import Notification from "./Components/Notification";
 
-function App() {
-  return (
-    <>
-      <AddressProvider>
-        <Main />
-      </AddressProvider>
-      <Footer />
-    </>
-  );
-}
+const App = () => {
+	return (
+		<>
+			<TopMenu />
+			<Map />
+			<Notification />
+		</>
+	);
+};
 
 export default App;
