@@ -1,15 +1,15 @@
-import TopMenu from "./Components/TopMenu";
-import Map from "./Components/Map";
-import Notification from "./Components/Notification";
+import Layout from './components/Layout';
 
-const App = () => {
-	return (
-		<>
-			<TopMenu />
-			<Map />
-			<Notification />
-		</>
-	);
-};
+import GlobalStyle from "./styles/global";
+
+function App() {
+
+  return (
+    <>
+      <GlobalStyle />
+      <Layout />
+    </>
+  );
+}
 
 export default App;
