@@ -9,8 +9,6 @@ This is a solution to the [IP Address Tracker challenge on Frontend Mentor](http
   - [Links](#links)
 - [Running](#running)
   - [Built with](#built-with)
-- [Author](#author)
-  - [Wanna know more about how I deal with this project?](#about-project)
 
 ## Overview
 
@@ -26,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/ip-address-tracker-with-react-styledcomponents-BehqgHsdc)
-- Live Site URL: [IP Address Tracker](https://ip-address-tracker-taupe-six.vercel.app/)
+- Live Site URL: [IP Address Tracker](https://ip-address-tracker-x.vercel.app/)
 
 ## Running
 
@@ -51,11 +49,4 @@ yarn start
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"/>
 
-## Author
-
-- LinkedIn - [Guih Leme](https://www.linkedin.com/in/guihleme/)
-
-## About Project
-
-Wanna know more about how I deal with this project? I wrote about it in my [dev.to](https://dev.to/guihleme/frontendmentor-io-challenge-1-o83) [PT/🇧🇷].
 
