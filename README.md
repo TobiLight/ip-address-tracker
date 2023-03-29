@@ -35,27 +35,8 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
 - Mobile-first workflow
 - [Typescript](https://www.typescriptlang.org/) - programming language
 - [Vite](https://vitejs.dev/) - "Next Generation Frontend Tooling"
 - IP Geolocation API URL: [ipify API](https://geo.ipify.org/)
 - Mobile-friendly interactive maps API URL: [Leaflet API](https://leafletjs.com/)
-
-### What I learned
-
-- How to deal with two different API to get mt web app done
-- How to deal with Vite + vanilla typescript template
-- How to manage adding and removiing event listeners
-- How to use environment variables to hode API keys
-- How to place my data panel above the map - set map container z-index: 0
-
-### Continued development
-
-I still find it tricky to use environment variables when deploying apps on different servises.
-I'm going to finish another couple of FE challenges to polish my skills in layout and development.
-
-
-I'm thankful to [Frontend Mentor](https://www.frontendmentor.io) and folks making such a nice open source: https://geo.ipify.org/ and https://leafletjs.com/
