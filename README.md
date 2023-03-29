@@ -1,16 +1,19 @@
-# Frontend Mentor - IP Address Tracker solution
+# IP address tracker
 
-This is a solution to the [IP Address Tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). 
+This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0).
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
-- [Running](#running)
+- [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
 - [Author](#author)
-  - [Wanna know more about how I deal with this project?](#about-project)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -23,39 +26,47 @@ Users should be able to:
 - See their own IP address on the map on the initial page load
 - Search for any IP addresses or domains and see the key information and location
 
+### Screenshot
+
+![App desktop screenshot](./src/images/app-screen.png)
+
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/ip-address-tracker-with-react-styledcomponents-BehqgHsdc)
-- Live Site URL: [IP Address Tracker](https://ip-address-tracker-taupe-six.vercel.app/)
+- Live Site URL: [Deployed on Netlify](https://kaleidoscopic-taiyaki-fb4264.netlify.app/)
+- Solution URL: [GitHub](https://github.com/vasily-mishanin/ip-address-tracker)
 
-## Running
-
-Clone this repository, open its folder and install dependencies with:
-
-```sh
-yarn
-```
-
-Then, run it using:
-
-```sh
-yarn start
-```
-
-**NOTE: You gonna need set your keys/tokens up in .env file as preset in .env.example. 
+## My process
 
 ### Built with
 
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"/>
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [Typescript](https://www.typescriptlang.org/) - programming language
+- [Vite](https://vitejs.dev/) - "Next Generation Frontend Tooling"
+- IP Geolocation API URL: [ipify API](https://geo.ipify.org/)
+- Mobile-friendly interactive maps API URL: [Leaflet API](https://leafletjs.com/)
+
+### What I learned
+
+- How to deal with two different API to get mt web app done
+- How to deal with Vite + vanilla typescript template
+- How to manage adding and removiing event listeners
+- How to use environment variables to hode API keys
+- How to place my data panel above the map - set map container z-index: 0
+
+### Continued development
+
+I still find it tricky to use environment variables when deploying apps on different servises.
+I'm going to finish another couple of FE challenges to polish my skills in layout and development.
 
 ## Author
 
-- LinkedIn - [Guih Leme](https://www.linkedin.com/in/guihleme/)
+- Website - [Vasily Mishanin](https://www.vasmish.com)
+- Frontend Mentor - [@vasily-mishanin](https://www.frontendmentor.io/profile/vasily-mishanin)
+- Twitter - [@MishaninVasily](https://twitter.com/MishaninVasily)
 
-## About Project
+## Acknowledgments
 
-Wanna know more about how I deal with this project? I wrote about it in my [dev.to](https://dev.to/guihleme/frontendmentor-io-challenge-1-o83) [PT/🇧🇷].
-
+I'm thankful to [Frontend Mentor](https://www.frontendmentor.io) and folks making such a nice open source: https://geo.ipify.org/ and https://leafletjs.com/
