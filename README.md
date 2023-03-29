@@ -10,10 +10,6 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -32,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Deployed on Netlify](https://kaleidoscopic-taiyaki-fb4264.netlify.app/)
-- Solution URL: [GitHub](https://github.com/vasily-mishanin/ip-address-tracker)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/ip-address-tracker-with-react-styledcomponents-BehqgHsdc)
+- Live Site URL: [IP Address Tracker](https://ip-address-tracker-x.vercel.app/)
 
 ## My process
 
@@ -61,12 +57,5 @@ Users should be able to:
 I still find it tricky to use environment variables when deploying apps on different servises.
 I'm going to finish another couple of FE challenges to polish my skills in layout and development.
 
-## Author
-
-- Website - [Vasily Mishanin](https://www.vasmish.com)
-- Frontend Mentor - [@vasily-mishanin](https://www.frontendmentor.io/profile/vasily-mishanin)
-- Twitter - [@MishaninVasily](https://twitter.com/MishaninVasily)
-
-## Acknowledgments
 
 I'm thankful to [Frontend Mentor](https://www.frontendmentor.io) and folks making such a nice open source: https://geo.ipify.org/ and https://leafletjs.com/
